@@ -1,5 +1,22 @@
 - 👋 Hi, my names Vinicius
 - 👀 I’m interested in development front-end and cats 
 - 🌱 I’m currently learning React
-- 📫 How to reach me vini_marques@outlook.com.br
+- 📫 How to reach me vini_marques@uni9.edu.br
+ ### ◼ About Me ◼
+ 
+```js
+  const Me = {  
+            Skills: "Front-End Developer", 
+           myLangs: "C, Javascript", 
+          learning: "React, Typescript", 
+              Tech: "Git, NodeJs", 
+                SO: "Windows, Linux", 
+};
+    
+```
 
+<div align='center'>
+  <a href="https://github.com/vrMarques">
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=vrmarques&theme=github&bg_color=20232a&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmarques&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
+<div>
