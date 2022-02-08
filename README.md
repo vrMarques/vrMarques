@@ -1,8 +1,5 @@
-const Me = {
-            Skills: "Front-End Developer",
-            My Langs: "C, Javascript",
-            learning: "React, Typescript",
-            Tech: "Git, NodeJs",
-            SO: "Windows, Linux",
-    };
+- 👋 Hi, my names Vinicius
+- 👀 I’m interested in development front-end and cats 
+- 🌱 I’m currently learning React
+- 📫 How to reach me vini_marques@outlook.com.br
 
