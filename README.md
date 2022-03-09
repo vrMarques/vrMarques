@@ -8,7 +8,7 @@
   const Me = {  
             Skills: "Front-End Developer", 
            myLangs: "C, Javascript", 
-          learning: "React, Typescript", 
+          learning: "Vue, Typescript", 
               Tech: "Git, NodeJs", 
                 SO: "Windows, Linux", 
 };
