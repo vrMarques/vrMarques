@@ -1,6 +1,6 @@
 - 👋 Hi, my names Vinicius
 - 👀 I’m interested in development front-end
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me vini_marques@uni9.edu.br
  ### ◼ About Me ◼
  
